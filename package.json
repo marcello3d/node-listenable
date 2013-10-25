@@ -1,0 +1,17 @@
+{
+    "name": "listenable",
+    "description": "listenable is a super simple event emitter intended for the browser",
+    "version": "0.1.0",
+    "homepage": "https://github.com/marcello3d/node-listenable",
+    "repository": "git://github.com/marcello3d/node-listenable.git",
+    "author": "Marcello Bastéa-Forte <marcello@cellosoft.com> (http://marcello.cellosoft.com/)",
+    "main": "listenable.js",
+    "scripts":{
+        "test":"node test.js"
+    },
+    "keywords": ["events","eventemitter","emitter"],
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
